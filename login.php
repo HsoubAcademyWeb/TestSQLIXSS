@@ -58,7 +58,7 @@
 				</div>
 				<div class="form-group">
 					<label style="float:right">كلمة المرور</label>
-					<input type="password" name="password" class="form-control" required />
+					<input type="password" name="password" class="form-control"  />
 				</div>
 				
 				<button class="btn btn-block" name="login"><span class="glyphicon glyphicon-log-in"></span> تسجيل دخول</button>
